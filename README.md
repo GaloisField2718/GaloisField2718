@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🧮 I'm **GaloisField**, [@Blockcryptology](https://twitter.com/Blockcryptology), 📩 galoisfield2718@gmail.com.
 
-🏆 I won 2️⃣ Blockchain hackathon at Brussels with [ResearchDAO](https://github.com/fulmini/ResearchDAO) and [TweetX](https://github.com/tweetnfts/TweetX).
+🏆 I won 2️⃣ Brussels Blockchain Hackathon with [ResearchDAO](https://github.com/fulmini/ResearchDAO) and [TweetX](https://github.com/tweetnfts/TweetX).
 
 🤝 Very involved in the **Bitcoin** community as in the **Blockchain space**. 
 
