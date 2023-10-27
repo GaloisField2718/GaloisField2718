@@ -38,6 +38,11 @@ I attended to [👉](https://b.tc/conference/amsterdam)
 
 
 
+## Thanks 🙏
+
+I want to say a **special thanks** to [Rix AI | Hashnode](https://hasnode.com/rix) which are providing **Claude 2 AI** for free and available everywhere without limitations !! I can really improve my tasks with it, it's absolutely not sponsored, only big fan 😁
+
+Thank you also to [goosinals team](https://magiceden.io/ordinals/marketplace/goosinals) for sending me a goosinals version of my pfp ![Taproot Goosinals](./assets/taproot-goose.jpg). 
 
 
 
