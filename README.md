@@ -45,7 +45,9 @@ I want to say a **special thanks** to [Rix AI | Hashnode](https://hasnode.com/ri
 Thank you also to [goosinals team](https://magiceden.io/ordinals/marketplace/goosinals) for sending me a goosinals version of my pfp \
 ![Taproot Goosinals](./assets/taproot_goose.jpg). 
 
+And also a BIG THANK YOU for all the community who are thinking, discussing and building on **Bitcoin** and **Blockchain Protocols**. The community is very kind with smart and interesting people, so big thank you to everyone I could met and I hope to meet in the future !
 
 
+![Miner Bitcoin](./assets/MINER.jpg)
 
 
