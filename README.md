@@ -36,6 +36,14 @@ I attended to [👉](https://b.tc/conference/amsterdam)
 
 📆 Actually mainly involved with new protocols on top of Bitcoin and projects on top of them : [Ordinals](github.com/ordinals/ord) and [Atomicals-js](github.com/atomicals/atomicals-js) for example. But I'm making some tests also on [Near Protocol](near.org), their command line is really cool and should be tested [near-cli-rs](https://github.com/near/near-cli-rs)
 
+## Some stacks
+
+[![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/-SQL-d2082d?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]()
+[![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
 
 
 ## Thanks 🙏
@@ -52,7 +60,13 @@ And also a BIG THANK YOU for all the community who are thinking, discussing and 
 
 
 ## Some Youtube recommendations
-[![]([https://www.youtube.com/watch?v=jT3lQKiFYlw&list=PLvBkrcxK_me63-XOo0L-bqYHInLGG3UBV&index=1](https://i.ytimg.com/vi/jT3lQKiFYlw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf3CSqVm3_IlKxW8cWuTrYH9Yt2g))](https://www.youtube.com/watch?v=jT3lQKiFYlw&list=PLvBkrcxK_me63-XOo0L-bqYHInLGG3UBV&index=1)
 [Bitcoin Core Playlist](https://youtube.com/playlist?list=PLvBkrcxK_me63-XOo0L-bqYHInLGG3UBV&si=awWZOcMftDaxhILQ)
 
 [![hqdefault.jpg (246×138)](https://i.ytimg.com/vi/jT3lQKiFYlw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D&rs=AOn4CLCf3CSqVm3_IlKxW8cWuTrYH9Yt2g)](https://www.youtube.com/watch?v=jT3lQKiFYlw&list=PLvBkrcxK_me63-XOo0L-bqYHInLGG3UBV&index=1)
+
+
+[Ordinals node setup | pazNGMI](https://www.youtube.com/@pazNGMI)
+![PazNGMI](https://yt3.googleusercontent.com/-TCeXT9FgfcDDoDelyqXYd7npWeb3Ia2N0Bg7Gff84jz3solVZNhF3GmqvCKvgfU5lIkhh7Z=s176-c-k-c0x00ffffff-no-rj)
+
+[![hqdefault.jpg (336×188)](https://i.ytimg.com/vi/4ZHwu0uut3k/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBTKFMwDw%3D%3D&rs=AOn4CLDKoppTjeG5SBjEQd0Vagp4zgxhCw)](https://www.youtube.com/playlist?list=PLsXRUgl5dDxEbiiRYHVrFynC76zJAloZE)
+
