@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Stacks : https://ileriayo.github.io/markdown-badges/
 -->
 
 🧮 I'm **GaloisField**, [@Blockcryptology](https://twitter.com/Blockcryptology), 📩 galoisfield2718@gmail.com.
@@ -36,7 +38,7 @@ I attended to [👉](https://b.tc/conference/amsterdam)
 
 📆 Actually mainly involved with new protocols on top of Bitcoin and projects on top of them : [Ordinals](github.com/ordinals/ord) and [Atomicals-js](github.com/atomicals/atomicals-js) for example. But I'm making some tests also on [Near Protocol](near.org), their command line is really cool and should be tested [near-cli-rs](https://github.com/near/near-cli-rs)
 
-## Some stacks
+## Some stack 📚
 
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
 [![BITCOIN](https://img.shields.io/badge/Bitcoin-002?style=for-the-badge&logo=bitcoin&logoColor=white)]()
@@ -45,6 +47,7 @@ I attended to [👉](https://b.tc/conference/amsterdam)
 [![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]()
 [![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)]()
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
 
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
