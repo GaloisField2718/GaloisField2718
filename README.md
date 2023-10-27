@@ -51,3 +51,6 @@ And also a BIG THANK YOU for all the community who are thinking, discussing and 
 ![Miner Bitcoin](./assets/MINER.jpg)
 
 
+## Some Youtube recommendations
+
+[Bitcoin Core Playlist](https://youtube.com/playlist?list=PLvBkrcxK_me63-XOo0L-bqYHInLGG3UBV&si=awWZOcMftDaxhILQ)
