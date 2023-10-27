@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🤝 Very involved in the **Bitcoin** community as in the **Blockchain space**. 
 
 👇👇👇👇👇👇👇     I WAS HERE   👇👇👇👇👇👇👇👇👇👇👇👇
-<img src="./assets/Bitcoin_amsterdam.png" alt="Bitcoin Amsterdam" width="50"/>
+<img src="./assets/Bitcoin_amsterdam.png" alt="Bitcoin Amsterdam" width="100"/>
 
 
 🧰 I built some tools as [Telegram Converter Bot](https://github.com/GaloisField2718/SatoshiPriceBot), [Email saver for Bitcoin-dev Digest](https://github.com/GaloisField2718/Bitcoin-dev-digest) and few other you can find on my profile. 
