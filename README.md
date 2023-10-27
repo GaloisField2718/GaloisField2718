@@ -44,6 +44,7 @@ I attended to [👉](https://b.tc/conference/amsterdam)
 [![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]()
 [![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
+![Static Badge](https://img.shields.io/badge/-vim?style=for-the-badge&logoColor=green)
 
 
 ## Thanks 🙏
