@@ -31,7 +31,7 @@ I attended to [👉](https://b.tc/conference/amsterdam)
     <img src="./assets/satoshibot.jpg" alt="Satoshi Price Bot" width="350"/> 
   </div>
 
-  <div style="float: left;">
+  <div style="float: right;">
      <img src="./assets/Bitcoin.jpg" alt="Bitcoin" width="350"/>
   </div>
 
