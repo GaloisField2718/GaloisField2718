@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🤝 Very involved in the **Bitcoin** community as in the **Blockchain space**. 
 
-I WAS HERE 👉👉👉👉
+I attended to [👉](https://b.tc/conference/amsterdam) 
 <img src="./assets/Bitcoin_amsterdam.png" alt="Bitcoin Amsterdam" width="350"/>
 
 
