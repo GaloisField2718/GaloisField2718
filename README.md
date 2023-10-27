@@ -27,8 +27,8 @@ I attended to [👉](https://b.tc/conference/amsterdam)
 
 🧰 I built some tools as [Telegram Converter Bot](https://github.com/GaloisField2718/SatoshiPriceBot), [Email saver for Bitcoin-dev Digest](https://github.com/GaloisField2718/Bitcoin-dev-digest) and few other you can find on my profile. 
 
-  |![Satoshi Price Bot](./assets/satoshibot.jpg){ width="200" height="200"}| ![Bitcoin](./assets/Bitcoin.jpg){ width="200" height="200"}| 
-  |:--|:--|
+|![Satoshi Price Bot](./assets/satoshibot.jpg){ width="200" height="200"}| ![Bitcoin](./assets/Bitcoin.jpg){ width="200" height="200"}|
+|:--|:--|
 
 🧑‍💻 Every hackathon has its own repository and I try to specify them in the description 💬. Feel free to check some of them and fork it 🍴 as you need.
 
