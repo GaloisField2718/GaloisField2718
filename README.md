@@ -52,5 +52,7 @@ And also a BIG THANK YOU for all the community who are thinking, discussing and 
 
 
 ## Some Youtube recommendations
-![](https://www.youtube.com/watch?v=jT3lQKiFYlw&list=PLvBkrcxK_me63-XOo0L-bqYHInLGG3UBV&index=1)
+[![]([https://www.youtube.com/watch?v=jT3lQKiFYlw&list=PLvBkrcxK_me63-XOo0L-bqYHInLGG3UBV&index=1](https://i.ytimg.com/vi/jT3lQKiFYlw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf3CSqVm3_IlKxW8cWuTrYH9Yt2g))](https://www.youtube.com/watch?v=jT3lQKiFYlw&list=PLvBkrcxK_me63-XOo0L-bqYHInLGG3UBV&index=1)
 [Bitcoin Core Playlist](https://youtube.com/playlist?list=PLvBkrcxK_me63-XOo0L-bqYHInLGG3UBV&si=awWZOcMftDaxhILQ)
+
+[![hqdefault.jpg (246×138)](https://i.ytimg.com/vi/jT3lQKiFYlw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D&rs=AOn4CLCf3CSqVm3_IlKxW8cWuTrYH9Yt2g)](https://www.youtube.com/watch?v=jT3lQKiFYlw&list=PLvBkrcxK_me63-XOo0L-bqYHInLGG3UBV&index=1)
