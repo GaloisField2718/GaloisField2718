@@ -23,7 +23,7 @@ Stacks : https://ileriayo.github.io/markdown-badges/
 
 🤝 Very involved in the **Bitcoin** community as in the **Blockchain space**. 
 
-I attended to [👉](https://b.tc/conference/amsterdam) 
+I attended to [👉](https://b.tc/conference/amsterdam) [Bitcoin Amsterdam](https://medium.com/@Blockcryptology/a-fireside-bitcoin-paper-e29c68ed9250) 
 <img src="./assets/Bitcoin_amsterdam.png" alt="Bitcoin Amsterdam" width="350"/>
 
 
