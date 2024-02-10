@@ -36,7 +36,7 @@ I attended to [👉](https://b.tc/conference/amsterdam) [Bitcoin Amsterdam](http
 
 🧑‍🎓 Actual student in Master Computer Sciences, I hope to shape tomorrow Blockchain tools. 
 
-📆 Actually mainly involved with new protocols on top of Bitcoin and projects on top of them : [Ordinals](github.com/ordinals/ord) and [Atomicals-js](github.com/atomicals/atomicals-js) for example. But I'm making some tests also on [Near Protocol](near.org), their command line is really cool and should be tested [near-cli-rs](https://github.com/near/near-cli-rs)
+📆 Actually mainly involved with new protocols on top of Bitcoin and projects on top of them : [Ordinals](https://github.com/ordinals/ord) and [Atomicals-js](https://github.com/atomicals/atomicals-js) for example. But I'm making some tests also on [Near Protocol](https://near.org), their command line is really cool and should be tested [near-cli-rs](https://github.com/near/near-cli-rs)
 
 ## Some stack 📚
 
