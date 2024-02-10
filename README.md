@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Stacks : https://ileriayo.github.io/markdown-badges/
 -->
 
-🧮 I'm **GaloisField**, [@Blockcryptology](https://twitter.com/Blockcryptology), 📩 [galoisfield2718@gmail.com](mailto:galoisfield2718@gmail.com?subject=I%20want%20to%20speak%20with%20you%20about...).
+🧮 I'm **GaloisField**, [@Blockcryptology](https://twitter.com/Blockcryptology), 📩 [galoisfield2718@gmail.com](mailto:galoisfield2718@gmail.com?subject=I%20want%20to%20talk%20with%20you%20about...).
 
 🏆 I won 2️⃣ Brussels Blockchain Hackathon with [ResearchDAO](https://github.com/fulmini/ResearchDAO) and [TweetX](https://github.com/tweetnfts/TweetX).
 
