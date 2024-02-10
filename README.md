@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Stacks : https://ileriayo.github.io/markdown-badges/
 -->
 
-🧮 I'm **GaloisField**, [@Blockcryptology](https://twitter.com/Blockcryptology), 📩 galoisfield2718@gmail.com.
+🧮 I'm **GaloisField**, [@Blockcryptology](https://twitter.com/Blockcryptology), 📩 [galoisfield2718@gmail.com](mailto:galoisfield2718@gmail.com?subject:I%20%want%20to%20speak%20with%20you%20about...).
 
 🏆 I won 2️⃣ Brussels Blockchain Hackathon with [ResearchDAO](https://github.com/fulmini/ResearchDAO) and [TweetX](https://github.com/tweetnfts/TweetX).
 
@@ -61,12 +61,12 @@ I attended to [👉](https://b.tc/conference/amsterdam)
 
 ## Thanks 🙏
 
-I want to say a **special thanks** to [Rix AI | Hashnode](https://hasnode.com/rix) which are providing **Claude 2 AI** for free and available everywhere without limitations !! I can really improve my tasks with it, it's absolutely not sponsored, only big fan 😁
+Unfortunately [Rix AI | Hashnode](https://hasnode.com/rix) which were providing **Claude 2 AI** for free and available everywhere without limitations, is not available anymore... 😢 I was a big fan, but I will need to take a subscription to ChatGPT 😭 Or... [janhq/jan: Jan is an open source alternative to ChatGPT that runs 100% offline on your computer](https://github.com/janhq/jan) could be THE SOLUTION with [Mistral AI | Open-weight models](https://mistral.ai/) could do the job 😄
 
 Thank you also to [goosinals team](https://magiceden.io/ordinals/marketplace/goosinals) for sending me a goosinals version of my pfp \
 ![Taproot Goosinals](./assets/taproot_goose.jpg). 
 
-And also a BIG THANK YOU for all the community who are thinking, discussing and building on **Bitcoin** and **Blockchain Protocols**. The community is very kind with smart and interesting people. So, big thank you to everyone I could met and I hope to meet in the future ! 😘
+And also a BIG THANK YOU for all the community who are thinking, discussing and building on **Bitcoin** and **Blockchain Protocols**. The community is very kind with smart and interesting people. So, big thank you to everyone I have met and I hope to meet in the future ! 😘
 
 
 ![Miner Bitcoin](./assets/MINER.jpg)
