@@ -63,7 +63,7 @@ I attended to [👉](https://b.tc/conference/amsterdam) [Bitcoin Amsterdam](http
 
 Unfortunately [Rix AI | Hashnode](https://hasnode.com/rix) which were providing **Claude 2 AI** for free and available everywhere without limitations, is not available anymore... 😢 I was a big fan, but I will need to take a subscription to ChatGPT 😭 Or... [janhq/jan: Jan is an open source alternative to ChatGPT that runs 100% offline on your computer](https://github.com/janhq/jan) could be THE SOLUTION with [Mistral AI | Open-weight models](https://mistral.ai/) could do the job 😄
 
-Thank you also to [goosinals team](https://magiceden.io/ordinals/marketplace/goosinals) for sending me a goosinals version of my pfp \
+Thank you also to [nodeMonkes team](https://magiceden.io/ordinals/marketplace/nodemonkes) and [Rocktoshi](https://x.com/rocktoshi21?s=21) for sending me a nodeMonkes version of my pfp \
 ![Taproot Goosinals](./assets/taproot_goose.jpg). 
 
 And also a BIG THANK YOU for all the community who are thinking, discussing and building on **Bitcoin** and **Blockchain Protocols**. The community is very kind with smart and interesting people. So, big thank you to everyone I have met and I hope to meet in the future ! 😘
