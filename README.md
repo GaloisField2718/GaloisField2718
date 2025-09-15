@@ -1,4 +1,4 @@
-### Hi  👋
+## 
 
 <!--
 **GaloisField2718/GaloisField2718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
