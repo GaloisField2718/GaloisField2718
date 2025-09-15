@@ -18,7 +18,7 @@ Stacks : https://ileriayo.github.io/markdown-badges/
 -->
 
 
-[![BITCOIN](https://img.shields.io/badge/Bitcoin-002?style=for-the-badge&logo=bitcoin&logoColor=white)]()
+[![BITCOIN](https://img.shields.io/badge/Bitcoin-002?style=for-the-badge&logo=bitcoin&logoColor=white)](https://bitcoin.org/bitcoin.pdf)
 
 
 ![Miner Bitcoin](./assets/MINER.jpg)
