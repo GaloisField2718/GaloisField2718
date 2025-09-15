@@ -24,10 +24,5 @@ Stacks : https://ileriayo.github.io/markdown-badges/
 ![Miner Bitcoin](./assets/MINER.jpg)
 
 
-[Bitcoin Core Playlist](https://youtube.com/playlist?list=PLvBkrcxK_me63-XOo0L-bqYHInLGG3UBV&si=awWZOcMftDaxhILQ)
-
-[![hqdefault.jpg (246×138)](https://i.ytimg.com/vi/jT3lQKiFYlw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D&rs=AOn4CLCf3CSqVm3_IlKxW8cWuTrYH9Yt2g)](https://www.youtube.com/watch?v=jT3lQKiFYlw&list=PLvBkrcxK_me63-XOo0L-bqYHInLGG3UBV&index=1)
-
-
 [![hqdefault.jpg (336×188)](https://i.ytimg.com/vi/4ZHwu0uut3k/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBTKFMwDw%3D%3D&rs=AOn4CLDKoppTjeG5SBjEQd0Vagp4zgxhCw)](https://www.youtube.com/playlist?list=PLsXRUgl5dDxEbiiRYHVrFynC76zJAloZE)
 
